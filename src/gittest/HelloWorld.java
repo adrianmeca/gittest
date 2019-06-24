@@ -3,7 +3,7 @@ package gittest;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		//Git is awesome!
+		//Git is awesome!!
 		System.out.println("Hello git");
 	}
 
